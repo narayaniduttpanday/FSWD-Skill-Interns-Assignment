@@ -1,0 +1,88 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to know NARAYANI</title>
+    <style>
+        body{
+            background-color:black
+        }
+        .BasicDetails{
+            background-color:darkslateblue;
+            text-align: center;
+        }
+        .Education{
+            background-color:cadetblue;
+        }
+        .Skills{
+            background-color:cadetblue
+        }
+        .Hobbies{Reading Self help books
+            Singing
+            background-color: cadetblue;
+        }
+        .Contact{
+            background-color:aqua;
+        }
+        /* hr{
+            border:2cm;
+            background-color: blue;
+            margin:auto;
+        } */
+    </style>
+</head>
+<body>
+    <div class="BasicDetails">
+        <h1>Narayani Dutt Pandey</h1>
+        <img src="https://imgs.search.brave.com/lBCMzEpJPk_2oj6pKv8UxdUnMDGLeFcqpKpkxg1U8Dw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvNTAwcC8x/MS82OS9ibGFuay1h/dmF0YXItcHJvZmls/ZS1waWN0dXJlLXZl/Y3Rvci00NTE2MTE2/OS5qcGc" alt="image of the candidate" height="100px" width="100px">   
+    </div>
+    <hr>
+    <div class="Education">
+        <h2>Educational Details</h2>
+        <ol type="I">
+            <li>B.Tech in Computer Science and Enginnering from<a href="https://www.united.ac.in/uit/">United Institute of Technology</a></li>
+
+            <li>Intermediate from <a href="https://www.saintjohnsacademy.com/">Saint John's Academy</a></li>
+
+            <li>Higher-Seconday from <a href="https://www.saintjohnsacademy.com/">Saint John's Acadmey</a></li>
+        </ol>
+    </div>
+    <hr>
+    <div class="Skills">
+        <h2>Skills</h2>
+        <h3>Technical Skills</h3>
+        <ol type="i">
+            <li><b><i>Java</i></b></li>
+            <li><b><i>Python</i></b></li>
+            <li><b><i>C</i></b></li>
+            <li><b><i>HTML</i></b></li>
+            <li><b><i>C++</i></b></li>
+        </ol>
+        <h3>Non-Technical Skills</h3>
+        <ol type="i">
+            <li><b><u>Communication Skills</u></b></li>
+            <li><b><u>Time Management</u></b></li>
+            <li><b><u>Team Management</u></b></li>
+        </ol>
+    </div>
+    <hr>
+    <div class ="Hobbies">
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading Self help books</li>
+            <li>Singing</li>
+            <li>Cooking</li>
+        </ul>
+    </div>
+    <hr>
+    <div class="Contact">
+        <hp><b>email</b>: narayaniduttpandey.official@gmail.com</p>
+            <br>
+        <p><b>phone</b>: 9580170850</p>
+        <br>
+        <p><b>linkedin</b>: narayaniduttpandey</p>
+    </div>
+
+</body>
+</html> -->
