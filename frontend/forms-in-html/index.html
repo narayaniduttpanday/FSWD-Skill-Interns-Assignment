@@ -3,32 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forms</title>
+    <title>Forms in HTML</title>
 </head>
 <body>
-     <form action="/action">
-        <label>
-        Enter username:
-        <input type="text" placeholder="Enter your username">
-        </label>
-        <br>
+    <section>
+        <form action="/server">
+            <label>
+                Enter  mail/username: 
+                <input  type="email" placeholder="enter your username">
+            </label>
+    </section>
 
-        <label>
-        Enter password
-        <input type="password" placeholder="Enter password">
-        <br>
-        </label>
-        <!-- Enter number
-        <input type="number" placeholder="enter phone/contact no.">
-        <br>
-        <!-- Enter time -->
-        <input type="time" placeholder="enter time">
-        <br>
-        <!-- color picker -->
-        <input type="color">
-        <br>
-        <!-- Enter mail id: -->
-        <input type="email" placeholder="enter mail id"> -->
-     </form>
+    <section>
+            <label>
+                Enter your password
+                <input type="password" placeholder="enter your password">
+            </label>
+    </section>
+
+    <section>
+
+            <label>
+                Enter your age: 
+                <input type="number" placeholder="enter your age">
+            </label>
+        </section>
+        <button>Submitt Response</button>
+        <button type="button">Button</button>
+        <button type="menu">Menu</button>
+        <button type="reset">Reset</button>
+        <button type="submitt">Submitt</button>
+
+
+        <!--using input element as a button-->
+        <input type="button" value ="dabaiye na">
+        <input type="submit">
+
+
+
+
+        <!--using name attribute-->
+        <div>
+            <input 
+            type="text"
+            placeholder="enter name"
+            id="username"
+            name ="query"
+            />
+        </div>
+        <button>submit</button>
+        
+        </form>
+    
 </body>
 </html>
